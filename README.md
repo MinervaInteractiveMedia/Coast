@@ -27,7 +27,8 @@ pip install sounddevice
 
 ---
 
-##Features:
+## Features
+
 🌊 Ocean Waves
 
 Volume, frequency, intensity, and foam/splash controls
